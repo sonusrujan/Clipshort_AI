@@ -1,0 +1,8 @@
+ffmpeg-python
+requests
+tqdm
+moviepy
+srt
+numpy
+pydub
+# Add ollama and kokoro-tts Python wrappers as needed
